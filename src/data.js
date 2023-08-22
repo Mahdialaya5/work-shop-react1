@@ -12,10 +12,6 @@
 "price":"1000",
 "descrption":"pc"
 } ,
- {
-"name":"dell",
-"price":"1000",
-"descrption":"pc"
-}
+
  ]
  export default arr
